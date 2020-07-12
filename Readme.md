@@ -17,4 +17,4 @@ Segue alguns prints do app<br/><br/><br/>
 <img src="https://i.imgur.com/9ozp90A.png"/>&nbsp;<img src="https://i.imgur.com/ML0eTzU.png"/>
 <br/><br/><br/>
 <i>by Juliano Lopes</i><br/><br/>
-&reg 07/2020
+&reg; 07/2020
