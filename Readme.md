@@ -42,6 +42,8 @@ Segue alguns prints do app<br/><br/><br/>
 <img src="https://i.imgur.com/0jlOhaR.png"/>&nbsp;<img src="https://i.imgur.com/X75wHSK.png"/><br/><br/><br/>
 <img src="https://i.imgur.com/TYbPIyj.png"/>&nbsp;<img src="https://i.imgur.com/PjlgiDb.png"/>
 <br/><br/><br/>
+
 <i>by Juliano Lopes<br/>
 Votorantim - SP</i></br/>
-&reg 07/2020
+&reg; 07/2020
+
