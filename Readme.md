@@ -6,9 +6,7 @@
 <h2>Aplicativo feito no Mit App Inventor (programação em blocos)</h2>
 <br/><br/>
 
-<b><i><font color="Blue">Este projeto foi uma prática de duas matérias da Univesp</font></i></b>*
-
-<br/><br/>
+<h4><b><i>Este projeto foi uma prática de duas matérias da Univesp</i></b>*</h4>
 
 <ul type="circle">
 	<li><u>Pensamento Computacional</u></li>
@@ -21,8 +19,8 @@
 	</ul>
 </ul>
 
-<p>
-*OBS: Exercício feito por conta, não exigido pela Univesp
+<p><i>
+	*OBS: Projeto feito por conta, não exigido pela Univesp</i></p>
 		
 	
 <p>Baseado na matemática, dos conceitos de critérios de divisibilidade,<br/>
@@ -44,6 +42,6 @@ Segue alguns prints do app<br/><br/><br/>
 <br/><br/><br/>
 
 <i>by Juliano Lopes<br/>
-Votorantim - SP</i></br/>
+Votorantim - SP</i><br/>
 &reg; 07/2020
 
